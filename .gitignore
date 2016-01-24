@@ -1,0 +1,4 @@
+*.o
+*~
+btv_main
+BTV_strats*
